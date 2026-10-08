@@ -30,4 +30,4 @@ Source: [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.co
 This was my first hands-on data exploration project. I practiced loading real-world data, handling missing values, using `groupby()` for aggregation, and building basic visualizations — foundational skills for machine learning work ahead.
 
 ## Files
-- `Untitled0.ipynb` – the full notebook with code, outputs, and analysis
+- `titanic_eda.ipynb` – the full notebook with code, outputs, and analysis
